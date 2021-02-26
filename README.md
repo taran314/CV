@@ -1,23 +1,51 @@
-## Your Name
+## Tarandeep Nandhra
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a strategic and logical thinker who is passionate about solving problems. 
+
+I gained my passion for solving problems whilst studying at the University of Birmingham, where I achieved a first-class degree in Mathematics. After I graduated I decided to become a Mathematics teacher, as I am passionate about helping others, but found that my desire to solve problems was not fulfilled. Coding has become a passion of mine as it provides me with an outlet to solve problems and taps into my analytical mindset.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Sudoku | A sudoku app which can check and solve sudoku problems. | Ruby          |
+| Celestial body simulator      | A program which can animate solar systems and more! | Java, StdDraw library |
+| <best cs61a project> | A webapp to do y. | Python             |
+
+## Education
+
+#### Makers Academy (February to May 2021))
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### University of Birmingham (September 2019 to July 2020)
+
+- Postgraduate Diploma in Education, Mathematics - Pass (final review graded as Outstanding)
+
+#### University of Birmingham (September 2015 to July 2018)
+
+- BSc Mathematics - First-class with Honours
+
+#### Self-study courses
+
+Completed online versions of university courses (UC Berkley, Harvard and MIT)
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Kings Norton Girls School (September 2020 to January 2021)
+Teacher of Mathematics
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Private tutor
+
+- Any experience relevent to software development
+
+Explore Learning  (June 2016 – October 2017)  
+Tutor
 
 - Any experience relevent to software development
 
@@ -40,25 +68,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Interests
 
-#### Makers Academy (start_date to end_date)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Rock climbing
+- Travelling
+- Video games and chess
+- Boxing

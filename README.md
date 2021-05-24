@@ -13,7 +13,7 @@ I gained my passion for solving problems whilst studying at the University of Bi
 | [NoNoNoteApp](https://github.com/taran314/NoNoNoteApp) | Created a single page notetaking web app using pure Js | 1 week |JavaScript, HTML and CSS | Created our own testing library  |
 | [MakersBnB](https://github.com/taran314/Makersbnb) | A group project to build a facebook clone - learning MVC and end-to-end testing | 1 week |Ruby, Sinatra, HTML/CSS | Capybara, Selenium-Webdriver, RSpec |
 | [Celestial body simulator](https://github.com/taran314/cs61b) | A program which can animate solar systems and more! | | Java, StdDraw library | | 
-| CS61a | Several mini projects and problem sets - Functional programming and recursion | | Python | Doctests |
+| [CS61a](https://github.com/taran314/cs61a) | Several mini projects and problem sets - Functional programming and recursion | | Python | Doctests |
 
 ## Education
 

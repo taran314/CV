@@ -6,20 +6,29 @@ I gained my passion for solving problems whilst studying at the University of Bi
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| Sudoku | A sudoku app which can check and solve sudoku problems. | Ruby          |
-| Celestial body simulator      | A program which can animate solar systems and more! | Java, StdDraw library |
-| <best cs61a project> | A webapp to do y. | Python             |
+| Title | Description | Development Timeframe | Technologies Used | Testing and tools |
+|--|--|--|--|--|
+
+| [FitLyfe](https://github.com/taran314/controLLyfe) | A fitness app which organises and tracks customisable workouts | 2 weeks | MERN - MongoDB, Express, React and Node | Jest, supertest, Mongoose, Expo, React Native, JsonWebTokens, Bcrypt  |
+| [Acebook](https://github.com/taran314/acebook-insert-team-name-here) | A group project to produce a social media platform using rails | 2 weeks | Rails API and React-Native frontend  | Rspec, Factory_bot_rails, Shoulda-matchers, Faker, 
+Database_cleaner, Jest, Heroku, SimpleCov  |
+| [NoNoNoteApp](https://github.com/taran314/NoNoNoteApp) | Created a single page notetaking web app using pure Js | 1 week |JavaScript, HTML and CSS | Created our own testing library  |
+| [MakersBnB](https://github.com/taran314/Makersbnb) | A group project to build a facebook clone - learning MVC and end-to-end testing | 1 week |Ruby, Sinatra, HTML/CSS | Capybara, Selenium-Webdriver, RSpec |
+| [Celestial body simulator](https://github.com/taran314/cs61b) | A program which can animate solar systems and more! | Java, StdDraw library |
+| CS61a | Several mini projects and problem sets - Functional programming and recursion | Python | | Python | Doctests |
 
 ## Education
 
 #### Makers Academy (February to May 2021))
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* Agile Software Development
+* XP Values
+* OOP, TDD, MVC, DDD
+* Languages: Ruby, Javascript, SQL, HTML and CSS
+* Libraries and Frameworks: Rails, React, React-Native, Node, Express, Sinatra, JQuery 
+* Databases: PostgreSQL and MongoDB
+* Testing Suites: RSpec, Jasmine, Jest, Capybara and Selenium-Webdriver
+* CI/CD: Travis CI, Heroku, ESLint and Github Pages
 
 #### University of Birmingham (September 2019 to July 2020)
 

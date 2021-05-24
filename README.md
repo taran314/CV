@@ -8,7 +8,6 @@ I gained my passion for solving problems whilst studying at the University of Bi
 
 | Title | Description | Development Timeframe | Technologies Used | Testing and tools |
 |--|--|--|--|--|
-
 | [FitLyfe](https://github.com/taran314/controLLyfe) | A fitness app which organises and tracks customisable workouts | 2 weeks | MERN - MongoDB, Express, React and Node | Jest, supertest, Mongoose, Expo, React Native, JsonWebTokens, Bcrypt  |
 | [Acebook](https://github.com/taran314/acebook-insert-team-name-here) | A group project to produce a social media platform using rails | 2 weeks | Rails API and React-Native frontend  | Rspec, Factory_bot_rails, Shoulda-matchers, Faker, 
 Database_cleaner, Jest, Heroku, SimpleCov  |

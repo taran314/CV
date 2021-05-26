@@ -5,13 +5,8 @@
   </a>
 </p>
 
-<div align="center">
-[Motivation ](#motivation) |
-
-</div>
-
 # Motivation
-  
+
 I am a strategic and logical thinker who is passionate about solving problems. 
 I gained my passion for solving problems whilst studying at the University of Birmingham, where I achieved a first-class degree in Mathematics. After I graduated I decided to become a Mathematics teacher, as I am passionate about helping others, but found that my desire to solve problems was not fulfilled. Coding has become a passion of mine as it provides me with an outlet to solve problems and taps into my analytical mindset.
   

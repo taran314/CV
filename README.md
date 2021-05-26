@@ -1,9 +1,14 @@
 <h1 align="center">Tarandeep Nandhra (Taran) - Software Developer</h1>
 <p align="center">
   <a href="https://www.codewars.com/users/taran314">
-    <img src="https://www.codewars.com/users/taran314/badges/micro">
+    <img src="https://www.codewars.com/users/taran314/badges/small">
   </a>
 </p>
+
+<div align="center">
+[Motivation ](#motivation) |
+
+</div>
 
 # Motivation
   
@@ -77,7 +82,7 @@ I gained my passion for solving problems whilst studying at the University of Bi
 - Liaison with colleagues and proactively supported new tutors ensuring they felt welcome.
 - Built a rapport with parents, ensuring they were satisfied with their child’s learning and pitched to prospective parents, booking many for trial sessions.
 
-## Skills
+# Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -96,7 +101,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Interests
+# Interests
 
 - Rock climbing
 - Travelling

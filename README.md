@@ -1,5 +1,7 @@
 <h1 align="center">Tarandeep Nandhra (Taran) - Software Developer</h1>
-<p align="center">
+
+<a href="https://www.codewars.com/users/taran314">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/12144548/codewars-logo.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
 
 # Motivation
   

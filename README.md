@@ -5,6 +5,18 @@
   </a>
 </p>
 
+<div align="center">
+  
+[Motivation](#motivation) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Interests ](#interests)
+
+</div>
+
+
 # Motivation
 
 I am a strategic and logical thinker who is passionate about solving problems. 

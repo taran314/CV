@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[Motivation](#motivation) |
+[Personal Summary](#personal-summary) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
@@ -16,11 +16,16 @@
 
 </div>
 
+<!-- Split into motivation and about me  -->
+# Personal Summary
 
-# Motivation
+I am an energetic and ambitious Makers Academy graduate, looking for a role where I can consolidate and extend my programming knowledge.
 
-I am a strategic and logical thinker who is passionate about solving problems. 
-I gained my passion for solving problems whilst studying at the University of Birmingham, where I achieved a first-class degree in Mathematics. After I graduated I decided to become a Mathematics teacher, as I am passionate about helping others, but found that my desire to solve problems was not fulfilled. Coding has become a passion of mine as it provides me with an outlet to solve problems and taps into my analytical mindset.
+After graduating from the University of Birmingham with a degree in mathematics, I became a teacher to share my love of mathematics and help others.
+As a Mathematician, my hunger for solving problems was not satisfied, so I learned how to programme as a creative outlet to solve problems.
+My coding journey started with many late nights on codewars to building full stack web applications at Makers in under five months.
+
+I am eagar to apply driven nature, analytical mindset and rapidily developing programming skills to create technology that makes people's lives easier by solving real world problems.
   
 # Projects
 
@@ -37,17 +42,17 @@ I gained my passion for solving problems whilst studying at the University of Bi
 
 #### Makers Academy (February to May 2021)
 
-* Built web apps in **Ruby** and **Javascript** by learning independently and in collobratively in group projects.
-* In group projects we worked in **Agile** teams using **pair programming**, **Git workflow** and **XP values**.
+* Built web apps in **Ruby** and **Javascript** by learning independently and collobratively in group projects.
+* Worked in **Agile** teams using **pair programming**, **Git workflow** and **XP values**.
 * Learned and applied software design principles such as **OOP, TDD, MVC, DDD**.
 * Created a fitness app allowing users to customise and track their workouts. Used **MongoDB**, **Node** and **Express** to build a **RESTful API** which serves a **React Native** front-end. Unit tested with **Jest** and deployed to the app store with **Expo**.
-* Developed a social media app by building a **Rails API**, hosted on **Heroku**, with a **PostgreSQL** database and a **React Native front** frontend. The API manages CRUD operations for several resources and we achieved high testing on the backend using **RSpec**. 
+* Developed a social media app by building a **Rails API**, hosted on **Heroku**, with a **PostgreSQL** database and a **React Native front** frontend. API manages CRUD operations for several resources and we achieved high test coverage on the backend using **RSpec**. 
   
-#### UC Berkley - Structure and Interpretation of Computer Programs (Self-study)
+#### UC Berkeley - Structure and Interpretation of Computer Programs (Self-study)
 
 * Introductory Computer Science course in **Python**.
 * Main Ideas: Abstraction, Object oriented and functional programming.
-* Key concepts: Recursion, higher order functions, tree recusion, list comprehension and generators.  
+* Key concepts: Recursion, higher order functions, tree recursion, list comprehension and generators.  
 
 #### University of Birmingham (September 2019 to July 2020)
 
@@ -71,7 +76,7 @@ I gained my passion for solving problems whilst studying at the University of Bi
 - Confidently delivered high quality lessons, which involved engaging students and managing classroom behaviour throughout the COVID-19 pandemic.
 - Took initiative by going above and beyond in delivering high quality lessons whilst self-isolating over zoom by incorporating - dynamic mathematics software in my teaching.
 - Managed a high workload of planning lessons, marking assignments and giving students feedback efficiently.
-- Liaison with parents throughout the term and at parents evenings.
+- Communicated with parents throughout the term and at parents evenings on their child's progress.
 
 **Private tutor** (September 2018 - Present)
 
@@ -86,27 +91,30 @@ I gained my passion for solving problems whilst studying at the University of Bi
 
 - Tutored children aged 4 – 14 in Mathematics and English.
 - Once I became experienced, I ran the front of the tuition centre, which involved greeting parents and leading a team of tutors to deliver services efficiently.
-- Liaison with colleagues and proactively supported new tutors ensuring they felt welcome.
+- Lead a team of tutors, proactively supporting new tutors ensuring they felt welcome.
 - Built a rapport with parents, ensuring they were satisfied with their child’s learning and pitched to prospective parents, booking many for trial sessions.
 
 # Skills
+<!-- Add leetcode and data structures - building on CS knowledge  -->
+#### Fast learner
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+When I became a teacher there was a high learning curve initially as I taught several classes from Year 7 to 12 during the COVID-19 pandemic.
+Despite the unprecedented circumstances, I quickly adapted to my role by reflecting on what I could improve and asking my colleagues for support.
+During my third week as a teacher I went above and beyond by ensuring I delivered high quality lessons to my students when teach remotely.
+Despite not having experience teaching remotely, I adapted my teaching style by making use of geometric software and improved the quality of my lessons by reflecting incrementally. 
+Furthermore, I have demonstrated that I am a fast learner during the Makers bootcamp by developing a native application using the MERN tech stack in my [final project](https://github.com/taran314/controLLyfe) in seven days.
 
-#### This Skill
+#### Confident communicator
 
-- Experience
-- Achievements
-- Evidence
+As a teacher, having strong communication was important in explaining complex mathematics to my students.
+I have furthered my communication skills during the Makers bootcamp across the group projects by leading stand ups, retrospectives and group planning sessions.
+Furthermore, I presented my final project to my bootcamp peers, where I explained how our app worked and answered technical questions confidentenly, and to a non-technical audience.
 
-#### Another Skill
+#### Logical problem solver
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have naturally developed problem solving skills from studying maths up to degree level which I have utilised when coding. 
+Particularly I enjoy writing algorithms in my spare time indepdendently which required a lot of perseverance, but has improved my debugging and testing skills (examples [Python](https://github.com/taran314/Python_Challenges) and [Ruby](https://github.com/taran314/Ruby-Projects)).
+During my time at Makers I have taken several external reviews and have used feedback to improve my ability to TDD and refactor code.
 
 # Interests
 

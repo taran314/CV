@@ -38,6 +38,28 @@ I am eagar to apply driven nature, analytical mindset and rapidily developing pr
 | [Celestial body simulator](https://github.com/taran314/cs61b) | A program which can animate solar systems and more! | | Java, StdDraw library | | 
 | [CS61a](https://github.com/taran314/cs61a) | Several mini projects and problem sets - Functional programming and recursion | | Python | Doctests |
 
+# Skills
+<!-- Add leetcode and data structures - building on CS knowledge  -->
+#### Fast learner
+
+When I became a teacher there was a high learning curve initially as I taught several classes from Year 7 to 12 during the COVID-19 pandemic.
+Despite the unprecedented circumstances, I quickly adapted to my role by reflecting on what I could improve and asking my colleagues for support.
+During my third week as a teacher I went above and beyond by ensuring I delivered high quality lessons to my students when teach remotely.
+Despite not having experience teaching remotely, I adapted my teaching style by making use of geometric software and improved the quality of my lessons by reflecting incrementally. 
+Furthermore, I have demonstrated that I am a fast learner during the Makers bootcamp by developing a native application using the MERN tech stack in my [final project](https://github.com/taran314/controLLyfe) in seven days.
+
+#### Confident communicator
+
+As a teacher, having strong communication was important in explaining complex mathematics to my students.
+I have furthered my communication skills during the Makers bootcamp across the group projects by leading stand ups, retrospectives and group planning sessions.
+Furthermore, I presented my final project to my bootcamp peers, where I explained how our app worked and answered technical questions confidentenly, and to a non-technical audience.
+
+#### Logical problem solver
+
+I have naturally developed problem solving skills from studying maths up to degree level which I have utilised when coding. 
+Particularly I enjoy writing algorithms in my spare time indepdendently which required a lot of perseverance, but has improved my debugging and testing skills (examples [Python](https://github.com/taran314/Python_Challenges) and [Ruby](https://github.com/taran314/Ruby-Projects)).
+During my time at Makers I have taken several external reviews and have used feedback to improve my ability to TDD and refactor code.
+
 # Education
 
 #### Makers Academy (February to May 2021)
@@ -93,28 +115,6 @@ I am eagar to apply driven nature, analytical mindset and rapidily developing pr
 - Once I became experienced, I ran the front of the tuition centre, which involved greeting parents and leading a team of tutors to deliver services efficiently.
 - Lead a team of tutors, proactively supporting new tutors ensuring they felt welcome.
 - Built a rapport with parents, ensuring they were satisfied with their child’s learning and pitched to prospective parents, booking many for trial sessions.
-
-# Skills
-<!-- Add leetcode and data structures - building on CS knowledge  -->
-#### Fast learner
-
-When I became a teacher there was a high learning curve initially as I taught several classes from Year 7 to 12 during the COVID-19 pandemic.
-Despite the unprecedented circumstances, I quickly adapted to my role by reflecting on what I could improve and asking my colleagues for support.
-During my third week as a teacher I went above and beyond by ensuring I delivered high quality lessons to my students when teach remotely.
-Despite not having experience teaching remotely, I adapted my teaching style by making use of geometric software and improved the quality of my lessons by reflecting incrementally. 
-Furthermore, I have demonstrated that I am a fast learner during the Makers bootcamp by developing a native application using the MERN tech stack in my [final project](https://github.com/taran314/controLLyfe) in seven days.
-
-#### Confident communicator
-
-As a teacher, having strong communication was important in explaining complex mathematics to my students.
-I have furthered my communication skills during the Makers bootcamp across the group projects by leading stand ups, retrospectives and group planning sessions.
-Furthermore, I presented my final project to my bootcamp peers, where I explained how our app worked and answered technical questions confidentenly, and to a non-technical audience.
-
-#### Logical problem solver
-
-I have naturally developed problem solving skills from studying maths up to degree level which I have utilised when coding. 
-Particularly I enjoy writing algorithms in my spare time indepdendently which required a lot of perseverance, but has improved my debugging and testing skills (examples [Python](https://github.com/taran314/Python_Challenges) and [Ruby](https://github.com/taran314/Ruby-Projects)).
-During my time at Makers I have taken several external reviews and have used feedback to improve my ability to TDD and refactor code.
 
 # Interests
 

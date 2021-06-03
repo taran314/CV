@@ -21,11 +21,12 @@
 
 I am an energetic and ambitious Makers Academy graduate, looking for a role where I can consolidate and extend my programming knowledge.
 
-After graduating from the University of Birmingham with a degree in mathematics, I became a teacher to share my love of mathematics and help others.
+After graduating from the University of Birmingham with a degree in mathematics, I became a teacher to share my passion for mathematics and helping others.
 As a Mathematician, my hunger for solving problems was not satisfied, so I learned how to programme as a creative outlet to solve problems.
-My coding journey started with many late nights on codewars to building full stack web applications at Makers in under five months.
+To further my development, I completed a university introductory computer science course indepedently online as I am passionate about learning more and furthering my coding skills.
+My coding journey started with many late nights on codewars to building full stack web applications at Makers Academy in under five months.
 
-I am eagar to apply driven nature, analytical mindset and rapidily developing programming skills to create technology that makes people's lives easier by solving real world problems.
+I am eagar to apply driven nature, analytical mindset and rapidily developing programming skills to create technology that solves real world problems and makes a difference to people's lives.
   
 # Projects
 
@@ -36,17 +37,17 @@ I am eagar to apply driven nature, analytical mindset and rapidily developing pr
 | [NoNoNoteApp](https://github.com/taran314/NoNoNoteApp) | Created a single page notetaking web app using pure Js | 1 week |JavaScript, HTML and CSS | Created our own testing library  |
 | [MakersBnB](https://github.com/taran314/Makersbnb) | A group project to build a facebook clone - learning MVC and end-to-end testing | 1 week |Ruby, Sinatra, HTML/CSS | Capybara, Selenium-Webdriver, RSpec |
 | [Celestial body simulator](https://github.com/taran314/cs61b) | A program which can animate solar systems and more! | | Java, StdDraw library | | 
-| [CS61a](https://github.com/taran314/cs61a) | Several mini projects and problem sets - Functional programming and recursion | | Python | Doctests |
+| [CS61a](https://github.com/taran314/cs61a) | Self-taught university introductory computer science course. Several mini projects and problem sets - Functional programming and recursion | 4 weeks | Python | Doctests |
 
 # Skills
 <!-- Add leetcode and data structures - building on CS knowledge  -->
-#### Fast learner
+#### Fast adaptable learner
 
 When I became a teacher there was a high learning curve initially as I taught several classes from Year 7 to 12 during the COVID-19 pandemic.
 Despite the unprecedented circumstances, I quickly adapted to my role by reflecting on what I could improve and asking my colleagues for support.
 During my third week as a teacher I went above and beyond by ensuring I delivered high quality lessons to my students when teach remotely.
 Despite not having experience teaching remotely, I adapted my teaching style by making use of geometric software and improved the quality of my lessons by reflecting incrementally. 
-Furthermore, I have demonstrated that I am a fast learner during the Makers bootcamp by developing a native application using the MERN tech stack in my [final project](https://github.com/taran314/controLLyfe) in seven days.
+Furthermore, I have demonstrated that I am a fast learner during my time at Makers Academy by developing a native application using the MERN tech stack in my [final project](https://github.com/taran314/controLLyfe) in seven days.
 
 #### Confident communicator
 

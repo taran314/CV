@@ -52,7 +52,7 @@ Furthermore, I have demonstrated that I am a fast learner during my time at Make
 #### Confident communicator
 
 As a teacher, having strong communication was important in explaining complex mathematics to my students.
-I have furthered my communication skills during the Makers bootcamp across the group projects by leading stand ups, retrospectives and group planning sessions.
+I have furthered my communication skills during the Makers bootcamp across the group projects by leading stand ups, retrospectives and sprints.
 Furthermore, I presented my final project to my bootcamp peers, where I explained how our app worked and answered technical questions confidentenly, and to a non-technical audience.
 
 #### Logical problem solver

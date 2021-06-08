@@ -33,7 +33,7 @@ I am eagar to apply driven nature, analytical mindset and rapidily developing pr
 | Title | Description | Development Timeframe | Technologies Used | Testing and tools |
 |--|--|--|--|--|
 | [FitLyfe](https://github.com/taran314/controLLyfe) | A fitness app which organises and tracks customisable workouts | 2 weeks | MERN - MongoDB, Express, React and Node | Jest, supertest, Mongoose, Expo, React Native, JsonWebTokens, Bcrypt  |
-| [Acebook](https://github.com/taran314/acebook-insert-team-name-here) | A group project to produce a social media platform using rails | 2 weeks | Rails API and React-Native frontend  | Rspec, Factory_bot_rails, Shoulda-matchers, Faker, Database_cleaner, Jest, Heroku, SimpleCov  |
+| [Acebook](https://github.com/taran314/acebook) | A group project to produce a social media platform using rails | 2 weeks | Rails API and React-Native frontend  | Rspec, Factory_bot_rails, Shoulda-matchers, Faker, Database_cleaner, Jest, Heroku, SimpleCov  |
 | [NoNoNoteApp](https://github.com/taran314/NoNoNoteApp) | Created a single page notetaking web app using pure Js | 1 week |JavaScript, HTML and CSS | Created our own testing library  |
 | [MakersBnB](https://github.com/taran314/Makersbnb) | A group project to build a facebook clone - learning MVC and end-to-end testing | 1 week |Ruby, Sinatra, HTML/CSS | Capybara, Selenium-Webdriver, RSpec |
 | [Celestial body simulator](https://github.com/taran314/cs61b) | A program which can animate solar systems and more! | | Java, StdDraw library | | 
